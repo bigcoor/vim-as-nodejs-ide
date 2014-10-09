@@ -21,7 +21,7 @@
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim-files/vim/bundle/command-t"]
 	path = vim-files/vim/bundle/command-t
-	url = git://git.wincent.com/command-t.git
+	url = git://github.com/bigcoor/command-t
 [submodule "vim-files/vim/bundle/jedi-vim"]
 	path = vim-files/vim/bundle/jedi-vim
 	url = git://github.com/davidhalter/jedi-vim.git
